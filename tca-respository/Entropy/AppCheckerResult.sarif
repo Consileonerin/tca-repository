@@ -66,6 +66,18 @@
               "message": {
                 "text": "Fehler beim Ausführen der Regel \"app-InefficientDelayLoading\"."
               }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 2
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Fehler beim Ausführen der Regel \"app-InefficientDelayLoading\"."
+              }
             }
           ]
         }
